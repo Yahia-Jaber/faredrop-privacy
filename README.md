@@ -1,2 +1,2 @@
 # FareDrop privacy policy
-Public privacy policy page for the FareDrop Android app, served through GitHub Pages.
+Public privacy policy, terms of use and support pages for the FareDrop app (Android and iPhone), served through GitHub Pages.
